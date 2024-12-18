@@ -1,3 +1,14 @@
+/**
+ * @file PerActivity.java
+ * @author Krisna Pranav
+ * @brief Activity Per Values
+ * @version 1.0
+ * @date 2024-11-25
+ *
+ * @copyright Copyright (c) 2024 FlexStore Developers, Krisna Pranav
+ *
+ */
+
 package com.flexstore.flexstore_android.util;
 
 import java.lang.annotation.Documented;
